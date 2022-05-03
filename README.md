@@ -1,4 +1,6 @@
 # Washington Henrique Fernandes de Sousa
+<img src="https://user-images.githubusercontent.com/54003876/166393816-cfd14d68-9c28-4050-92f0-1710be0e0a6c.png" height="200"/>
+
 ## Introdução
 Apenas **Henrique Sousa** na maioria das vezes, 21 anos, Desenvolvedor React JS Jr., aluno ingressante do segundo semestre de 2019 da [FATEC São José dos Campos - Prof. Jessen Vidal](https://fatecsjc-prd.azurewebsites.net/). Este portfólio acadêmico foi desenvolvido com trabalhos realizados na minha formação em Análise e Desenvolvimento de Sistemas. 
 
@@ -221,3 +223,46 @@ Docker: Sei fazer com ajuda; <br/>
 
 ## Soft Skills:
 Proatividade; Criatividade; Trabalho em equipe; Flexibilidade;
+
+
+# 📌 2022-1
+## Empresa parceira:
+UOL <br/>
+<img src="https://user-images.githubusercontent.com/54003876/166391320-1c529b8b-fac0-477c-9fb3-02c08cfe18c8.png" height="300"/>
+##### *Figura 14. Logo Uol (Fonte: https://www.uol.com.br/)*
+
+Desde 1996 a uol é considerada uma das maiores empresas no ramo conteúdos, tecnologia e serviços digitais. Ao longo dos anos sempre buscando inovações com credibilidade, pioneira brasileira na interatividade online. 
+
+#### Problema: 
+Proposta da empresa cliente foi solicitar um sistema de monitoramento e alertas prevendo a possibilidade falhas com antecedência em busca de manter uma aplicação no ar sem vestígios para o usuário final. 
+
+#### Solução:
+Ferramenta [Orbit](https://github.com/Orbit-API/orbit-docs). Um sistema de monitoramento com a capacidade de alertar com prioridade o operador caso haja riscos de erros. 
+
+![image](https://user-images.githubusercontent.com/54003876/166392171-299022b6-4b5d-4e02-a43f-fdb874f48753.png)
+*Figura 15. Logo Orbit (Fonte: https://github.com/Orbit-API/orbit-docs)*
+
+O projeto em seu desenvolvimento contém uma aplicação alvo de formulário com cadastros. Neste executando testes de carga para iniciar os levantamentos de dados para a uma inteligência artificial. 
+
+![locust-orbit](https://user-images.githubusercontent.com/54003876/166392988-3a1ba6fe-fdf3-410c-a38a-a011c042bc1f.png)
+*Figura 16. Teste de carga na aplicação alvo com Locust (Fonte: https://github.com/Orbit-API/orbit-docs)*
+
+## Tecnologias utilizadas:
+Java <br/>
+Spring Boot <br/>
+Vue JS <br/>
+Locust <br/>
+Prometheus <br/>
+
+#### Contribuições pessoais
+Desenvolvimento do front-end da aplicação alvo: Formulário listagem e cadastro de usuários. Desenvolvimento da parta de UX/UI Design da aplicação alvo. Trativas de integração e consumo com o back-end. 
+
+## Hard Skills:
+Java: Sei fazer com ajuda; <br/>
+Spring Boot: Sei fazer com ajuda; <br/>
+Vue JS: Sei fazer com **autonomia**; <br/>
+Locust: Sei fazer com ajuda; <br/>
+Prometheus: Sei fazer com ajuda; <br/>
+
+## Soft Skills:
+Criatividade; Flexibilidade; 
